@@ -18,7 +18,10 @@ Neler Yaptık:
 - react-native-linear-gradient
 - react-native-app-auth
 - react-native-vector-icons
-- react-native-sound
+- react-native-sounds
 - react-native-modal
 - axios
 - react-native-track-player# Spotify_Context
+
+![Uploading spotify_context_app.gif…]()
+
