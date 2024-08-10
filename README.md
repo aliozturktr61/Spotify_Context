@@ -23,5 +23,6 @@ Neler Yaptık:
 - axios
 - react-native-track-player# Spotify_Context
 
-![Uploading spotify_context_app.gif…]()
+
+![spotify_context_app](https://github.com/user-attachments/assets/8de9d1d4-b3c9-48ca-9271-d13f6252f8aa)
 
